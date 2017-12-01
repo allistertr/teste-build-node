@@ -1,0 +1,27 @@
+{
+  "name": "teste-build-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allistertr/teste-build-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.2",
+    "cors": "^2.8.3",
+    "express": "^4.14.0",
+    "express-validator": "^3.1.2",
+    "jsonwebtoken": "^7.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/allistertr/teste-build-node/issues"
+  },
+  "homepage": "https://github.com/allistertr/teste-build-node#readme"
+}
