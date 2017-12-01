@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/allistertr/teste-build-node/issues"
   },
-  "homepage": "https://github.com/allistertr/teste-build-node#readme"
+  "homepage": "https://github.com/allistertr/teste-build-node#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "run-sequence": "^2.2.0"
+  }
 }
